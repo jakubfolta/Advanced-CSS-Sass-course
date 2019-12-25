@@ -1,0 +1,11 @@
+{
+  "name": "advancedcsssass",
+  "version": "1.0.0",
+  "description": "Advanced CSS and Sass course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files src/css/*.css *.html"
+  },
+  "author": "Jakub Folta",
+  "license": "ISC"
+}
